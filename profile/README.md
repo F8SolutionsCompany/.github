@@ -1,12 +1,5 @@
-## Hi there 👋
+# Factor 8 Solutions Company
+## Software Developers
 
-<!--
+<img src="https://i.ibb.co/CPkX0XX/Whats-App-Image-2024-02-15-at-4-35-45-PM.jpg" alt="Logo" style="width: 50%; height: 50%;">
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
